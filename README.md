@@ -2,25 +2,25 @@
 Honey website
 A responsive, multi-page website for a fictional honey business. This site showcases honey product quality, provides company details, and offers a clean, mobile-friendly layout using Bootstrap 4 and custom styling.
 honey-website/
-├── index.html
-├── about.html
-├── shop.html
-├── quality.html        <-- This is the page you provided
-├── contact.html
-├── css/
-│   ├── bootstrap.min.css
-│   ├── style.css
+index.html
+about.html
+shop.html
+quality.html      
+contact.html
+css/
+ bootstrap.min.css
+  style.css
 │   └── responsive.css
-├── js/
-│   ├── jquery.min.js
-│   ├── bootstrap.bundle.min.js
-│   ├── jquery-3.0.0.min.js
-│   └── custom.js
+ js/
+  ├── jquery.min.js
+  ├── bootstrap.bundle.min.js
+  ├── jquery-3.0.0.min.js
+  └── custom.js
 ├── images/
-│   ├── logo1.png
-│   ├── loading.gif
-│   ├── quality1.png to quality8.png
-│   └── fevicon.png
+  ├── logo1.png
+  ├── loading.gif
+    ├── quality1.png to quality8.png
+   └── fevicon.png
 └── README.md
 | Technology   | Description                           |
 | ------------ | ------------------------------------- |
